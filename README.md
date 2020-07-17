@@ -24,14 +24,16 @@ Abre la terminal y ejecuta lo siguiente:
 
 ## Realiza una contribución
 Cuando ya tengas clonado el repositorio en tu computadora, edita el archivo “contribuidores.txt” ingresando ‘tu nombre’ seguido de ‘@tu usuario de twitter’, seguido de “tu frase favorita”.
+
 Ej: 
+
 `Melissa @piratelicorne “un día sin sonreir es un dia perdido”`
 
 Luego de ingresar la línea de contribución, recuerda actualizar el archivo en tu repositorio:
-`git status
-git add contribuidores.txt
-git commit -m “tu_nombre ha contribuido ahora, ya conoce Git”
-git push`
+`git status`
+`git add contribuidores.txt`
+`git commit -m “tu_nombre ha contribuido ahora, ya conoce Git”`
+`git push`
 
 
 ## Enviar cambios para revisión
