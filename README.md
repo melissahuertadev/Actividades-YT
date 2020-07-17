@@ -30,9 +30,13 @@ Ej:
 `Melissa @piratelicorne “un día sin sonreir es un dia perdido”`
 
 Luego de ingresar la línea de contribución, recuerda actualizar el archivo en tu repositorio:
+
 `git status`
+
 `git add contribuidores.txt`
+
 `git commit -m “tu_nombre ha contribuido ahora, ya conoce Git”`
+
 `git push`
 
 
